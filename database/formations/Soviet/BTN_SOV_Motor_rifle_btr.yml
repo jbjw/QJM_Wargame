@@ -1,0 +1,19 @@
+!!python/object:__main__.formation
+name: Motor Rifle Battalion (BTR)
+personnel: 525
+equipment:
+    AK-74: 162
+    AK-74 GP-25: 27
+    RPK-74: 27
+    PKM: 9
+    Metis: 9
+    Konkurs: 6
+    SPG-9: 3
+    RPG-7V: 37
+    Strela: 9
+    AGS-17: 6
+    BTR-70: 47
+    BTR-60PB: 3
+    2B9: 8
+    Truck: 24
+    POL Truck: 2

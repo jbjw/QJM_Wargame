@@ -1,0 +1,40 @@
+!!python/object:__main__.formation
+equipment:
+  1V12 ACRV: 16
+  1V18 ACRV: 8
+  2B11: 96
+  2S1: 144
+  2S3: 36
+  2S6: 32
+  AGS-17: 72
+  AK-74: 4576
+  BM-21: 18
+  BMP-2: 528
+  BRDM-2: 32
+  BRDM-2 AT-5: 36
+  BRDM-2U: 136
+  BRM-1: 8
+  BTR-60: 6
+  BTR-60PA (FAC): 8
+  BTR-60PB: 32
+  Engineer Vehicle: 192
+  GAZ-66: 347
+  MT-55: 8
+  MT-LB: 1
+  PKM: 216
+  PRP-3: 11
+  RPG-7V: 768
+  RPK-74: 528
+  SA-13: 16
+  SA-7: 132
+  SA-9: 16
+  T-80B: 536
+  TMM Bridging Truck: 32
+  UAZ-469: 161
+  Ural-375: 252
+  Ural-375 POL: 222
+  Van Truck: 113
+  ZIL-130: 229
+  ZIL-131: 356
+name: Soviet Generic TD
+personnel: 7014

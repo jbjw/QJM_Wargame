@@ -1,0 +1,16 @@
+!!python/object:__main__.formation
+name: Motor Rifle Battalion (BMP-2)
+personnel: 110
+equipment:
+    AK-74: 162
+    AK-74 GP-25: 27
+    RPK-74: 27
+    PKM: 18
+    RPG-7V: 35
+    Strela: 9
+    AGS-17: 6
+    BMP-2: 47
+    BTR-60PB: 3
+    2B11: 8
+    Truck: 24
+    POL Truck: 2

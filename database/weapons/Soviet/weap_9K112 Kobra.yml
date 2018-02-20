@@ -1,0 +1,14 @@
+!!python/object:__main__.weapon_atgm
+name: 9K112 Kobra
+range: 4000
+rie: 1
+rate_of_fire: null
+rf_multiple: null
+barrels: 1
+calibre: 125
+muzzle_vel: 400
+ammo: 9K112 Kobra
+min_range: 100
+penetration: 700
+guidance: SACLOS radio
+enhancement: 1

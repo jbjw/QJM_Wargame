@@ -1,0 +1,6 @@
+!!python/object:__main__.equipment_inf
+name: AK-74
+weapons:
+    - AK-74
+ammo_store: 300
+crew: 1

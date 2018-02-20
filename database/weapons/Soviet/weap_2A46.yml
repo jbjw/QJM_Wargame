@@ -1,0 +1,11 @@
+!!python/object:__main__.weapon_gun
+name: 2A46
+range: 3000
+accuracy: 0.9
+rie: 1
+rate_of_fire: null
+rf_multiple: null
+barrels: 1
+calibre: 125
+muzzle_vel: 1800
+ammo: 125 mm

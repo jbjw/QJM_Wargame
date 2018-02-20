@@ -1,0 +1,11 @@
+!!python/object:__main__.weapon_gun
+name: 2A42
+range: 3200
+accuracy: 0.7
+rie: 1.0
+rate_of_fire: 300
+rf_multiple: 4
+barrels: 1
+calibre: 30
+muzzle_vel: 970
+ammo: 30x165

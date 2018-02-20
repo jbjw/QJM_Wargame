@@ -1,0 +1,21 @@
+!!python/object:__main__.formation
+name: Artillery Regiment (TD)
+personnel: 1062
+equipment:
+    2S3: 36
+    BM-21: 18
+    RPG-7V: 40
+    RPK-74: 36
+    AK-74: 252
+    1V18 ACRV: 8
+    1V12 ACRV: 16
+    BTR-60: 6
+    MT-LB: 1
+    PRP-3: 3
+    UAZ-469: 21
+    GAZ-66: 31
+    ZIL-130: 49
+    ZIL-131: 8
+    Ural-375: 72
+    Van Truck: 13
+    Ural-375 POL: 14

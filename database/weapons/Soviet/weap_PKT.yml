@@ -1,0 +1,11 @@
+!!python/object:__main__.weapon_gun
+name: PKT
+range: 600
+accuracy: 0.7
+rie: 0.8
+rate_of_fire: 800
+rf_multiple: 4
+barrels: 1
+calibre: 7.62
+muzzle_vel: 845
+ammo: 7.62 mm

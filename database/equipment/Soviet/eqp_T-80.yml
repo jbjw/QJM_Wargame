@@ -1,0 +1,13 @@
+!!python/object:__main__.equipment_afv
+name: T-80
+weapons:
+    - 2A46
+    - PKT
+    - DShK
+range: 360
+weight: 42.5
+speed: 70
+ammo_store: 36
+crew: 3
+armour: early composite
+fire_control: 'steroscopic rangefinder'

@@ -1,0 +1,11 @@
+!!python/object:__main__.weapon_gun
+name: DShK
+range: 800
+accuracy: 0.7
+rie: 1
+rate_of_fire: 600
+rf_multiple: 4
+barrels: 1
+calibre: 12.7
+muzzle_vel: 845
+ammo: 12.7 mm

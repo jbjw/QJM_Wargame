@@ -1,0 +1,14 @@
+!!python/object:__main__.weapon_atgm
+name: 9K113 Konkurs
+range: 4000
+rie: 1
+rate_of_fire: null
+rf_multiple: null
+barrels: 1
+calibre: 135
+muzzle_vel: 200
+ammo: 9K113 Konkurs
+min_range: 70
+penetration: 600
+guidance: SACLOS wire day
+enhancement: 1
